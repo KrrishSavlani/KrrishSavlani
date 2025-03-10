@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krrish Savlani
 - 👀 I’m interested in programming and learning new tech 
-- 🌱 I’m currently learning c language 
+- 🌱 I’m currently learning Android , kotlin jetpack comose
 - 💞️ I’m looking to collaborate on projects which includes c language
 - 📫 How to reach me savlanikrrish@gmail.com
 
