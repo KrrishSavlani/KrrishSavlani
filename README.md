@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krrish Savlani
 - 👀 I’m interested in programming and learning new tech 
-- 🌱 I’m currently learning Android , kotlin jetpack
-- 💞️ I’m looking to collaborate on projects which includes Android studio , and springboot kotlin backend 
+- 🌱 currently diving deep into the securing apis in nodejs and express
+- 💞️ I’m looking to collaborate on projects which includes backend development , nodejs express , springboot/kotlin 
 - 📫 How to reach me savlanikrrish@gmail.com
 
 
