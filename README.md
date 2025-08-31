@@ -9,7 +9,7 @@
 
 ### 🌟 About Me  
 - 💬 Ask me about **Node.js, Express, MongoDB, Spring Boot, Java, Kotlin, MyBatis, Android, Python, MySQL**  
-- 📫 Reach me at: **[your email here]**  
+- 📫 Reach me at: **savlanikrrish@gmail.com**  
 - ⚡ Fun fact: *I turn ideas into code that scales 🚀*  
 
 ---
