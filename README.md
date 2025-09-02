@@ -43,9 +43,9 @@
 
 ---
 
-### 🏆 GitHub Trophies  
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=krrishSavlani&theme=tokyonight&no-frame=true&margin-w=15" />
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KrrishSavlani&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
