@@ -38,14 +38,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krrishsavlani&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrrishSavlani&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies  
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=krrishsavlani&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krrishSavlani&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
