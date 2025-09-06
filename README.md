@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krrish Savlani</h1>
 <h3 align="center">🚀 A Passionate Software Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krrishsavlani&label=Profile%20views&color=0e75b6&style=flat" alt="krrishsavlani" />
-</p>
-
 ---
 
 ### 🌟 About Me  
