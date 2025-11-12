@@ -8,7 +8,7 @@ I'm a passionate full-stack developer who loves turning ideas into scalable, eff
 
 - 💬 Always happy to chat about any of the tech I use in my projects.
 - 📫 Feel free to reach out: **contact@krrishsavlani.tech**
-- 🌐 Explore my world: ***www.krrishsavlani.tech**
+- 🌐 Explore my world: **www.krrishsavlani.tech**
 
 - ⚡ Fun Fact: I thrive on transforming complex problems into elegant code that truly scales 🚀
 
